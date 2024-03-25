@@ -1,6 +1,6 @@
-
-
 # DepthVistaCmd : Command Line application with DepthVistaSDK (CPP & Python)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fe-con-devops-rnd%2FdepthVistaCmd.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fe-con-devops-rnd%2FdepthVistaCmd?ref=badge_shield)
+
 
 Sample command line application, opens the device, gets stream, and enables the user to control some basic TOF Camera Controls. 
 
@@ -50,3 +50,7 @@ Sample command line application, opens the device, gets stream, and enables the 
 ## Support
 
 If you need assistance, visit at https://www.e-consystems.com/create-ticket.asp or contact us at techsupport@e-consystems.com
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fe-con-devops-rnd%2FdepthVistaCmd.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fe-con-devops-rnd%2FdepthVistaCmd?ref=badge_large)
